@@ -64,7 +64,7 @@ margin: 0 auto;
     float: left;
 }
 .logo img{
-    height: 90px;
+    height: 65px;
     margin-top: 10px;
 }
 .menu{
@@ -86,15 +86,70 @@ margin: 0 auto;
 .menu ul li a{
     text-decoration: none;
     text-transform: uppercase;
-    color: #455964;
+    color: #2C3F50;
 }
 .menu ul li i{
     height: 30px;
     width: 30px;
-    border: 2px solid #455964;
+    border: 2px solid #2C3F50;
     border-radius: 100%;
     line-height: 30px;
     
 }
 /*Row-2 CSS End*/
+/* Row-3 CSS Start */
+#row3{
+    height: 500px;
+    width: 100%;
+    background-image:url(https://th.bing.com/th/id/OIP.dbetzNY62fwSizGx8VbAnwHaEo?w=290&h=181&c=7&r=0&o=5&pid=1.7) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: round;
+}
+.overlayrow3{
+    height: 100%;
+    width: 100%;
+    background: rgba(0,0,0,.7);
+    position: absolute;
+}
+.banner_section{
+    text-align: center;
+    color: #fff;
+   position: absolute;
+   width: 100%;
+   margin: 0 auto;
+}
+.banner_content{
+    
+}
+.banner_content h1{
+    text-transform: uppercase;
+    font-size: 50px;
+    line-height: 70px;
+    padding-top: 200px;
+}
+.banner_content p{
+    font-size: 1opx;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.banner_button{
+}
+.banner_button button{
+    background: none;
+    padding: 10px 20px;
+    background: #999;
+    border: 2px solid #fff;
+    color: #fff;
+    text-transform: uppercase;
+    border-right: 3px;
+    margin-right: 10px;
+}
+.banner_button button:hover{
+    background-color: #2C3F50;
+    transition: 1s;
+}
+
+/* Row-3 CSS End */
+
 
