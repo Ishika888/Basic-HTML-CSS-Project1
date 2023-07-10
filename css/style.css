@@ -272,7 +272,7 @@ margin: 0 auto;
 #row6{
     height:400px;
     width:100%;
-    background: url(../images/bg-holi.jpg);
+    background: url(https://th.bing.com/th/id/OIP.HvfTmUlqhZ4zRjmwx-hiHAHaFU?w=244&h=180&c=7&r=0&o=5&pid=1.7);
     background-repeat: no-repeat;
     background-size: cover;
     background-repeat: round;
@@ -366,5 +366,103 @@ margin: 0 auto;
 .happy-item h4{}
 
 /* Row-7 CSS End */ 
+/* Row-8 CSS start */ 
 
+#Row8{
+    height: 370px;
+    width: 100%;
+    background-color:#234757 ;
+}
+.footer-section{
+    width: 90%;
+    margin: 0 auto;
+}
+.footer-top{
+    padding: 40px 0px;
+    border-bottom: 2px solid gray;
+    height: 205px;
+}
+.footer-top-item{
+    width: 22%;
+    float:left;
+    color:#fff; 
+  
+}
+.footer-top-item h2{}
+.footer-top-item p{
+    font-size: 13px;
+    text-align: justify;
+    line-height: 20px;
+    margin-bottom: 15px;
+    width: 224px;
+    
+}
+.footer-top-item input[type="email"]{
+    padding: 5px;
+}
+.footer_top_item button{
+     padding: 7px 10px;
+     background: gray;
+     border: none;
+}
+.news-item{}
+ .news-item-left{
+    width: 30%;
+    float: left;
+ }
+.news-item-left img {
+    height:20px;
+    height: 42px;
+    border: 2px solid #fff;
+}
+.news-item-right{
+    width: 70%;
+    float: left;
+}
+.news-item-right h5{}
+.news-item-right p{}
+.footer-top-item ul{}
+.footer-top-item ul li{
+   border: 1px solid white;
+   list-style: none;
+   padding:3px ; 
+   display: inline-block;
+   margin: 3px;
+}
+.footer-top-item h4{
+    line-height: 30px;
+}
+.footer-top-item h5{}
+.footer-icon{}
+.footer-icon i{
+margin-left: 18px;
+}
+.footer-bottom{}
+.footer-menu{
+    height: 25px;
+    
+}
+.footer-menu ul{
+    width: 434px;
+    margin: 0 auto;
+    margin-top: 6px;
+}
+.footer-menu ul li{
+    float: left;
+    list-style: none;
+    margin-left: 20px;
+    text-transform: capitalize;
+}
+.footer-menu ul li a{
+    color: gray;
+    text-decoration: none;
+}
+.copyright{}
+.copyright p{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+/* Row-8 CSS End */
 
